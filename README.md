@@ -1,11 +1,15 @@
 # 👋 Bernardo Constantino
 
-### Desenvolvedor Front-end em formação
+### Desenvolvedor Full Stack em Formação
 
-Olá! Me chamo **Bernardo Constantino** e sou estudante de programação com foco em **desenvolvimento front-end**.  
-Atualmente estou estudando Sistemas de Informação na Unifacol e praticando as principais tecnologias da web, sempre buscando evoluir tecnicamente através de projetos reais.
+Olá! Me chamo **Bernardo Constantino** e sou estudante de programação com foco em **desenvolvimento front-end e back-end**.  
+Sou desenvolvedor Full Stack em formação e estudante de Sistemas de Informação na Unifacol. Estou construindo minha carreira na área de tecnologia com foco em aprendizado constante, prática real e evolução diária.
 
-Tenho interesse em criar interfaces bem estruturadas, responsivas e com código limpo, aplicando boas práticas e aprendendo continuamente.
+Tenho grande interesse em entender como as coisas funcionam por trás das aplicações — desde a interface que o usuário vê até a lógica e estrutura que sustentam o sistema. Gosto de criar soluções organizadas, funcionais e bem estruturadas, sempre aplicando boas práticas e buscando escrever um código cada vez mais limpo e eficiente.
+
+Estou sempre estudando novas tecnologias, explorando tendências do mercado e aprimorando minhas habilidades técnicas. Acredito que crescer na área exige disciplina, curiosidade e constância — e é exatamente isso que procuro desenvolver todos os dias.
+
+Meu objetivo é evoluir de forma sólida como desenvolvedor, acumulando experiência, construindo projetos relevantes e me tornando um profissional cada vez mais preparado para desafios maiores.
 
 ---
 
@@ -25,7 +29,7 @@ Tenho interesse em criar interfaces bem estruturadas, responsivas e com código 
 
 - Evoluir como desenvolvedor front-end
 - Criar projetos reais para portfólio
-- Aprimorar HTML, CSS e JavaScript
+- Aprimorar HTML, CSS, JavaScript e Java
 - Avançar futuramente para frameworks e back-end
 
 ---
