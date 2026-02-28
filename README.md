@@ -27,16 +27,18 @@ Meu objetivo é evoluir de forma sólida como desenvolvedor, acumulando experiê
 
 ## 🎯 Objetivos
 
-- Evoluir como desenvolvedor front-end
-- Criar projetos reais para portfólio
-- Aprimorar HTML, CSS, JavaScript e Java
-- Avançar futuramente para frameworks e back-end
+- Evoluir como desenvolvedor front-end e back-end
+- Análise de dados
+- Segurança da Informação
+- Cloud Computing
+- Inteligência Artificial
 
 ---
 
 ## 📫 Contato
 
 - GitHub: https://github.com/bernardoconstantino
+- Email: bernardo7.js@gmail.com
       
 ---
 
