@@ -1,20 +1,19 @@
-# 👋 Bernardo Constantino
+# Bernardo Constantino
 
 ### Desenvolvedor Full Stack em Formação
 
-Olá! Me chamo **Bernardo Constantino** e sou estudante de programação com foco em **desenvolvimento front-end e back-end**.  
-Sou desenvolvedor Full Stack em formação e estudante de Sistemas de Informação na Unifacol. Estou construindo minha carreira na área de tecnologia com foco em aprendizado constante, prática real e evolução diária.
+Hello! My name is **Bernardo Constantino** and I'm a programming student focused on **front-end and back-end development**.
 
-Tenho grande interesse em entender como as coisas funcionam por trás das aplicações — desde a interface que o usuário vê até a lógica e estrutura que sustentam o sistema. Gosto de criar soluções organizadas, funcionais e bem estruturadas, sempre aplicando boas práticas e buscando escrever um código cada vez mais limpo e eficiente.
+I'm a Full Stack developer in training and a student of Information Systems at Unifacol. I'm building my career in the technology field with a focus on constant learning, real-world practice, and daily evolution.
 
-Estou sempre estudando novas tecnologias, explorando tendências do mercado e aprimorando minhas habilidades técnicas. Acredito que crescer na área exige disciplina, curiosidade e constância — e é exatamente isso que procuro desenvolver todos os dias.
+I have a great interest in understanding how things work behind the scenes of applications — from the user interface to the logic and structure that underpin the system. I enjoy creating organized, functional, and well-structured solutions, always applying best practices and striving to write increasingly clean and efficient code.
 
-Meu objetivo é evoluir de forma sólida como desenvolvedor, acumulando experiência, construindo projetos relevantes e me tornando um profissional cada vez mais preparado para desafios maiores.
+I'm constantly studying new technologies, exploring market trends, and improving my technical skills. I believe that growing in this field requires discipline, curiosity, and consistency — and that is exactly what I strive to develop every day.
 
+My goal is to evolve solidly as a developer, accumulating experience, building relevant projects, and becoming a professional increasingly prepared for greater challenges.
 ---
 
-## 🚀 Linguagens e Tecnologias
-
+## 🚀 Languages and Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS"/>
@@ -27,22 +26,22 @@ Meu objetivo é evoluir de forma sólida como desenvolvedor, acumulando experiê
 
 ## 🎯 Objetivos
 
-- Evoluir como desenvolvedor front-end e back-end
-- Análise de dados
-- Segurança da Informação
+- To evolve as a front-end and back-end developer.
+- Data analysis
+- Information Security
 - Cloud Computing
-- Inteligência Artificial
+- Artificial intelligence
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - GitHub: https://github.com/bernardoconstantino
 - Email: bernardo7.js@gmail.com
       
 ---
 
-⭐ *README em constante evolução, assim como meu aprendizado.*
+⭐ *README in constantly evolving, just like my learning.*
 
 
 <!--
